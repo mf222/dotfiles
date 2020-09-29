@@ -1,6 +1,6 @@
 [user]
-  name = Juan Ignacio Donoso
-  email = jidonoso@gmail.com
+  name = Fernanda Sepulveda
+  email = mferser@gmail.com
 
 [credential]
   helper = osxkeychain
@@ -67,7 +67,7 @@
   protocol = https
 
 [github]
-  user = blackjid
+  user = mf222
 
 [pager]
   diff = diff-so-fancy | less --tabs=1,5 -RFX
